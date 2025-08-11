@@ -1,4 +1,3 @@
-# scripts/listen_booking_created.py
 """
 This tiny script subscribes to the Redis `booking.created` channel and prints
 incoming messages.  Run it with Python while Redis is running and the
